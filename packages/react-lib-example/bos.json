@@ -1,0 +1,14 @@
+{
+    "environments": {
+      "testnet": {
+        "rpcUrl": "https://rpc.testnet.near.org",
+        "fileContract": "fs0.testnet",
+        "deployerAccount": "gornt.testnet",
+        "fileServerUrl": "http://localhost:3003"
+      }
+    },
+    "filePathMatchers": [
+      "/src/App.tsx",
+      "/src/components"
+    ]
+  }
